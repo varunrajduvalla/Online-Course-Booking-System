@@ -5,3 +5,5 @@ My responsibilities:
 •	Recognized and collected functional requirements; translate them into information architecture and process flows
 •	Administered interpersonal skills to motivate the team, and developed a prototype for an Online Course Booking System
 •	Directed usability testing on the model and documented the results along with the system specification document
+
+Tools used: Invision and Moqups
